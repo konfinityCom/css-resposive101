@@ -1,3 +1,13 @@
+html{
+    -webkit-text-size-adjust: none;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
 h1{
     color: gray;
 }
