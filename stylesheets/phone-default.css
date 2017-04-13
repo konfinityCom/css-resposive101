@@ -8,6 +8,85 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
 }
-h1{
-    color: gray;
+#header-container{
+    background-color: #3B4040;
+}
+
+header{
+    padding: 1em 2% 1em 2%;
+}
+
+header h1{
+    font-size: 2.1em;
+    color: #fff;
+}
+header h2{
+    font-size: .9em;
+    font-weight: 300;
+    color: #ddd;
+    margin-top: .75em;
+}
+
+/*navigation content here */
+#nav-container{
+    background-color: #e61b10;
+}
+
+#nav-container nav{
+
+}
+
+#nav-container nav ul{
+    padding: .4em 0;
+}
+
+#nav-container nav ul li{
+    margin: 0em 2%;
+    width: 46%;
+    float: left;
+}
+
+#nav-container nav ul li a{
+    font-weight: 600;
+    text-align: center;
+    display: block;
+    font-weight: 2em;
+    background-color: rgba(0,0,0,0.15);
+    color: #fff;
+    margin: .4em 0;
+    padding: .6em;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+#nav-container nav ul li.active a{
+    background-color: rgba(0,0,0,.6);
+}
+
+/*content styles*/
+#content-container{
+    margin: 1em 0;
+}
+#content-container{
+    padding: 0 4%;
+}
+
+
+/*footer styles*/
+#footer-container{
+    background: #666;
+    color: white;
+    text-align: center;
+}
+
+#footer-container footer{
+    padding: 2em 1em;
+}
+
+/*other utilities*/
+.clearfix::after{
+    clear: both;
+    display: table;
+    content: "";
+
 }
