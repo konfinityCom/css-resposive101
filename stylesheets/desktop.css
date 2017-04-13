@@ -1,5 +1,11 @@
 @media only screen and (min-width: 1024px){
-    h1{
-        color: red;
+    #nav-container ul li a{
+        transition: background .3s linear;
     }
+
+    #nav-container ul li a:hover{
+        background-color: rgba(0,0,0,.5);
+    }
+
+    
 }
