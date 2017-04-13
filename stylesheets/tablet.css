@@ -1,21 +1,29 @@
 @media only screen and (min-width: 641px){
+    #nav-controller{
+        display: none;
+    }
+
+    
     
     #header-container{
         padding-left: 2%;
     }
 
-    #nav-container nav ul{
+    .nav-container{
+        height: auto;
+    }
+    .nav-container nav ul{
         padding: 0;
         padding-left: 4%;
         border-left: rgba(0,0,0,.25);
     }
 
-    #nav-container nav ul li{
+    .nav-container nav ul li{
         width: auto;
         margin: 0;
     }
 
-    #nav-container nav ul li a{
+    .nav-container nav ul li a{
         /*phone styles remove*/
         background-color: transparent;
         border-radius: 0;
@@ -26,7 +34,7 @@
         font-size: .9em;
         border-right: solid 1px rgba(0,0,0,.25);
     }
-    #nav-container nav ul li.active a{
+    .nav-container nav ul li.active a{
         background-color: rgba(0,0,0,.25);
     }
 }
