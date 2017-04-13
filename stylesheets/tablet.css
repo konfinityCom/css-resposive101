@@ -10,7 +10,7 @@
     }
 
     .nav-container{
-        height: auto;
+        height: 2.6em !important; 
     }
     .nav-container nav ul{
         padding: 0;
