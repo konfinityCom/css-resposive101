@@ -8,12 +8,14 @@ nav ul li a br {display: none;}
 
 /*-----CONTENT -----*/
 
+.col-3{
+    width: 33.3333%;
+    float: left;
+}
+
 .col-6{
 	width: 50%;
 	float: left;
 }
-
-
-
 
 } /*end of the media query */
