@@ -29,3 +29,13 @@
 <li> version 0.5.0 - Navigation on Tablet </li>
 <li> version 0.5.0 - Navigation on desktop </li>
 </ul> 
+
+<h2>Responsive 12 column layout</h2>
+<ul>
+<li>version 0.6.0 - Layout start files </li>
+<li>version 0.6.1 - Single Column </li>
+<li>version 0.6.2 - Double Column </li>
+<li>version 0.6.3 - Triple Column </li>
+<li>version 0.6.4 - Mixed column width </li>
+<li>version 0.6.5 - Six columns with images </li>
+</ul>
