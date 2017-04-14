@@ -6,6 +6,8 @@
     #nav-container ul li a:hover{
         background-color: rgba(0,0,0,.5);
     }
-
     
+    #subnav-container ul li a:hover{
+        background-color: rgba(0,0,0,0.8);
+    }
 }

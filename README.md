@@ -15,6 +15,7 @@
 
 
 <h2>Navigation using JS show hide</h2>
+<ul>
     <li>version 0.4.0 - Connect JS and a button </li>
     <li>version 0.4.1 - Style the phone navigation</li>
     <li>version 0.4.1 - Style the tablet navigation</li>
@@ -25,6 +26,6 @@
 <h2>Navigation with submenus</h2>
 <ul>
 <li>version 0.5.0 - navigation on phone </li>
-<li> version 0.5.1 - Navigation on Tablet </li>
-<li> version 0.5.2 - Navigation on desktop </li>
+<li> version 0.5.0 - Navigation on Tablet </li>
+<li> version 0.5.0 - Navigation on desktop </li>
 </ul> 
