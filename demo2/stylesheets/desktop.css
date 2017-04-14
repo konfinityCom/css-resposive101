@@ -3,7 +3,7 @@
 
 
 /*-----INSIDE THE WRAPPERS-----*/
-	header, nav, footer {
+	header, nav, footer, .row {
 		max-width: 1140px;
 		margin: 0 auto; /*centers everything on the page*/
 	}

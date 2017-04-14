@@ -8,6 +8,10 @@ nav ul li a br {display: none;}
 
 /*-----CONTENT -----*/
 
+.col-6{
+	width: 50%;
+	float: left;
+}
 
 
 
