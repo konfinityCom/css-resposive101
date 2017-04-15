@@ -94,16 +94,36 @@ nav ul li:last-child a {
 
 /*---- COLUMNS ----*/
 .row{
-	border-bottom: 1px dashed orange;
 }
 .row::after{
 	content: "";
 	display: table;
 	clear: both;
 }
-.col-3, .col-4, .col-12 {
+.col-2, .col-3, .col-4, .col-12 {
 	padding: .5em 2%;
 }
+
+.col-2{
+	width: 50%;
+	float: left;
+}
+
+.col-2 img{
+	background-size: cover;
+	max-width:100%; 
+}
+
+	/*COLORS*/
+	.color-1, .color-2{
+		padding: .4em 1em .8em 1em;
+	}
+	.color-1{
+		background: #f9f8c1;
+	}
+	.color-2{
+		background: #ffddc1;
+	}
 
 
 /*----- FOOTER -----*/
